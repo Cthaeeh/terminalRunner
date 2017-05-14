@@ -12,6 +12,7 @@ cd test/
 cmake ..
 make
 ```
+Or you could use Clion IDE like I did.
 
 
 
